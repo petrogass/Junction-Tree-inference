@@ -22,5 +22,5 @@ Per esempio, se al posto di {} (ultimo parametro nella chiamata a bn.inference) 
 L'evidenza inserita deve essere coerente (e.g. {"T":1, "E":0} non lo è) altrimenti il programma non funziona come ci si aspetta.
 
 
-Per il metodo createTable(vars, probs, domains) ho preso spunto riadattandolo ai miei bisogni dal metodo createCPT(varnames, probs, levelsList) presente a 
+Per il metodo createTable(vars, probs, domains) ho fatto uso dell'algoritmo presente nel metodo createCPT(varnames, probs, levelsList) presente a 
 questo link http://www.cs.utah.edu/~fletcher/cs6190/homeworks/hw2/BayesianNetworks-template.txt
