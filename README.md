@@ -1,3 +1,6 @@
+<img width="468" alt="frequentists_vs_bayesians_2x" src="https://github.com/petrogass/Junction-Tree-inference/assets/28407052/9c269d28-e8be-44a0-956e-a59a1afbd216">
+
+
 # Junction Tree Inference
 Implementazione dell'algoritmo di inferenza su Junction tree. 
 
