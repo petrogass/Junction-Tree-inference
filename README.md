@@ -1,4 +1,4 @@
-# Esame-AI
+# Junction Tree Inference
 Implementazione dell'algoritmo di inferenza su Junction tree. 
 
 Per dimostrare la funzionalità del codice si è scelto come esempio giocattolo il Chest Clinic problem.
